@@ -2,6 +2,7 @@
 
 > A third-person open-world sandbox game built with [Three.js](https://threejs.org/) — no game engine, just pure WebGL.
 
+https://youtu.be/DQsU81iZWSc?si=f9xD4e44uLKwjHC-
 
 ## Quick Start
 
